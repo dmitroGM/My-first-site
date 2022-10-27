@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(255, 255, 255);
+}
+h1{
+text-align: center;
+
+}
+p{
+    text-align: center;
+}
+.photo1 {margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
